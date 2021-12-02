@@ -1,0 +1,41 @@
+{
+  "end": {
+    "defaultMessage": "Enter the end date"
+  },
+  "err": {
+    "defaultMessage": "The end date must be after the starting date"
+  },
+  "info": {
+    "defaultMessage": "Info"
+  },
+  "marketing": {
+    "defaultMessage": "Marketing"
+  },
+  "privacy": {
+    "defaultMessage": "Privacy Policy"
+  },
+  "result_d": {
+    "defaultMessage": "In days: {time}"
+  },
+  "result_h": {
+    "defaultMessage": "In hours: {time}"
+  },
+  "result_m": {
+    "defaultMessage": "In months: {time}"
+  },
+  "result_t": {
+    "defaultMessage": "In total: {months} {months, plural, one{month}other{months}}, {days} {days, plural, one{day} other{days}} and {hours} {hours, plural, one{hour} other{hours}}"
+  },
+  "start": {
+    "defaultMessage": "Enter the start date"
+  },
+  "support": {
+    "defaultMessage": "Support"
+  },
+  "title": {
+    "defaultMessage": "Time differnce"
+  },
+  "tou": {
+    "defaultMessage": "Terms of Use"
+  }
+}

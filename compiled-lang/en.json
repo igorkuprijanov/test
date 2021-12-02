@@ -1,0 +1,196 @@
+{
+  "end": [
+    {
+      "type": 0,
+      "value": "Enter the end date"
+    }
+  ],
+  "err": [
+    {
+      "type": 0,
+      "value": "The end date must be after the starting date"
+    }
+  ],
+  "info": [
+    {
+      "type": 0,
+      "value": "Info"
+    }
+  ],
+  "marketing": [
+    {
+      "type": 0,
+      "value": "Marketing"
+    }
+  ],
+  "privacy": [
+    {
+      "type": 0,
+      "value": "Privacy Policy"
+    }
+  ],
+  "result_d": [
+    {
+      "type": 0,
+      "value": "In days: "
+    },
+    {
+      "type": 1,
+      "value": "time"
+    }
+  ],
+  "result_h": [
+    {
+      "type": 0,
+      "value": "In hours: "
+    },
+    {
+      "type": 1,
+      "value": "time"
+    }
+  ],
+  "result_m": [
+    {
+      "type": 0,
+      "value": "In months: "
+    },
+    {
+      "type": 1,
+      "value": "time"
+    }
+  ],
+  "result_t": [
+    {
+      "type": 0,
+      "value": "In total: "
+    },
+    {
+      "type": 1,
+      "value": "months"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "month"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "months"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "months"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "type": 1,
+      "value": "days"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "day"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "days"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "days"
+    },
+    {
+      "type": 0,
+      "value": " and "
+    },
+    {
+      "type": 1,
+      "value": "hours"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "hour"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "hours"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "hours"
+    }
+  ],
+  "start": [
+    {
+      "type": 0,
+      "value": "Enter the start date"
+    }
+  ],
+  "support": [
+    {
+      "type": 0,
+      "value": "Support"
+    }
+  ],
+  "title": [
+    {
+      "type": 0,
+      "value": "Time differnce"
+    }
+  ],
+  "tou": [
+    {
+      "type": 0,
+      "value": "Terms of Use"
+    }
+  ]
+}
